@@ -74,9 +74,5 @@ AprilMay = {
 <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord">
 <p align="center">aprilmaycodes</p>
 <hr>
-<p align="center">
-<a href="https://ko-fi.com/I3I3ZVHJM"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me On Ko-fi"></a>
-</p>
-  
 <img src="AprilMayCodes_crop.png">
 
